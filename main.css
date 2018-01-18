@@ -1,0 +1,22 @@
+div {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+}
+
+h2{
+	margin-top: 50px;
+}
+
+h3{
+	display: inline;
+}
+
+h4{
+	margin-top: 10px;
+}
+
+#change p{
+	display: inline;
+	margin-left: 9em;
+}
